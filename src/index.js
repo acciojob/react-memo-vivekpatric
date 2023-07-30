@@ -4,3 +4,4 @@ import App from "./components/App";
 
 
 
+ReactDOM.render(<Memo></Memo>,document.getElementById('root'));
